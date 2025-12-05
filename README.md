@@ -1,16 +1,19 @@
-## Hi there 👋
+ Hi 👋 I'm Donald Kisaka
+💫 About Me:
+I am a third-year computer science student at Daystar University, passionate about exploring the realms of coding, and building robust applications.
 
-<!--
-**DonKisaka/DonKisaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 What I'm Up To
+💻 Building Spring Boot applications with PostgreSQL
+Check out my coding portfolio!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Connect with me:
+LinkedIn
+
+💻 Tech Stack:
+Languages: Python Java SQL HTML5 CSS JavaScript C VHDL
+
+Developer Tools: Postman PowerBI Git
+
+Libraries/Frameworks: AWS ReactJS PostgreSQL Spring Boot NodeJS Azure Docker Drools
+

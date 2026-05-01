@@ -2,7 +2,7 @@
 
 **Software Engineer** based in **Nairobi, Kenya 🇰🇪**
 
-I specialise in backend development with Java and Spring Boot — building distributed systems with RabbitMQ, Redis, Kafka, and Docker. Lately I've been going deep on the **Spring AI ecosystem**: RAG pipelines, LLM-powered document processing, vector search, embeddings, and tool calling using Anthropic Claude and Ollama.
+I specialise in backend development with Java and Spring Boot — building distributed systems with Redis, Kafka, and Docker. Lately I've been going deep on the **Spring AI ecosystem**: RAG pipelines, LLM-powered document processing, vector search, embeddings, and tool calling using Anthropic Claude and Ollama.
 
 On the frontend I work with Next.js, React, and TypeScript to ship full-stack products end-to-end. I'm open to backend, full-stack, or AI-engineering roles where I can build things that actually scale.
 

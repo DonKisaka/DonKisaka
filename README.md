@@ -20,6 +20,7 @@ On the frontend I work with Next.js, React, and TypeScript to ship full-stack pr
 | [Invoice Processor](https://github.com/DonKisaka/invoice-processor) | Extracts structured data from raw invoice text using Claude, persists to PostgreSQL | Spring AI · Claude · PostgreSQL · Docker |
 | [RAG System](https://github.com/DonKisaka/rag-system) | Full RAG pipeline — document ingestion, vector search, and grounded LLM responses | Spring AI · Ollama · Vector Store |
 | [Fraud Detection](https://github.com/DonKisaka/fraud-detection) | AI-powered transaction classification for real-time fraud detection | Spring AI · Spring Boot · Java |
+| [Expense Agent](https://github.com/DonKisaka/expense-agent) | Conversational AI agent that manages personal expenses through natural language — no forms, no clicks. Uses tool calling so the LLM reads and writes directly to a Postgres database | Spring AI · Ollama · PostgreSQL · Docker |
 
 ### ⚙️ Distributed Systems & Backend
 

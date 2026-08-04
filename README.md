@@ -24,6 +24,8 @@ On the frontend I work with Next.js, React, and TypeScript to ship full-stack pr
 | [Streaming AI](https://github.com/DonKisaka/streaming-ai) |  Reactive streaming AI chat API using Spring Boot 4, Spring AI, and Ollama. Streams tokens in real-time via Server-Sent Events (SSE) and Spring WebFlux.| Spring AI · Ollama · |
 | [Multi-Skill-Agent](https://github.com/DonKisaka/multi-skill-agent) | A multi-skill AI assistant that supports expense tracking, task management, and summarization via domain-specific Skills. | Spring AI · Claude · PostgreSQL · Docker · |
 | [Weather-MCP-Agent](https://github.com/DonKisaka/weather-mcp-agent) | An AI weather agent that answers natural-language questions by calling tools on its own MCP server, which wraps the keyless Open-Meteo API | Spring AI · Claude · MCP Server · Open-Meteo · Streamable HTTP|
+| [Customer Support Platform](https://github.com/DonKisaka/customer-support-platform) | A production-pattern AI customer support platform built on Agent-to-Agent (A2A) communication. A central orchestrator powered by Claude Haiku routes customer queries to specialist sub-agents — billing, tech support, and escalation — each with their own tools, databases, and system prompts. | Spring AI · Claude · A2A Protocol · Docker · RAG + pgvector |
+
 
 ### ⚙️ Distributed Systems & Backend
 

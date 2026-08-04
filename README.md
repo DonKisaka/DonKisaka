@@ -23,6 +23,7 @@ On the frontend I work with Next.js, React, and TypeScript to ship full-stack pr
 | [Expense Agent](https://github.com/DonKisaka/expense-agent) | Conversational AI agent that manages personal expenses through natural language — no forms, no clicks. Uses tool calling so the LLM reads and writes directly to a Postgres database | Spring AI · Ollama · PostgreSQL · Docker |
 | [Streaming AI](https://github.com/DonKisaka/streaming-ai) |  Reactive streaming AI chat API using Spring Boot 4, Spring AI, and Ollama. Streams tokens in real-time via Server-Sent Events (SSE) and Spring WebFlux.| Spring AI · Ollama · |
 | [Multi-Skill-Agent](https://github.com/DonKisaka/multi-skill-agent) | A multi-skill AI assistant that supports expense tracking, task management, and summarization via domain-specific Skills. | Spring AI · Claude · PostgreSQL · Docker · |
+| [Weather-MCP-Agent](https://github.com/DonKisaka/weather-mcp-agent) | An AI weather agent that answers natural-language questions by calling tools on its own MCP server, which wraps the keyless Open-Meteo API | Spring AI · Claude · MCP Server · Open-Meteo · Streamable HTTP|
 
 ### ⚙️ Distributed Systems & Backend
 
